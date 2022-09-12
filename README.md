@@ -8,7 +8,7 @@ VCs are added to the list if:
 
 This list is work in progress, so please don't hesitate to [contribute](https://github.com/CrowdDotDev/awesome-oss-investors/blob/main/CONTRIBUTING.md) and add VCs.
 
-Any questions or suggestions? Feel free to DM project maintainers [@jonathimer](https://twitter.com/jonathimer) or [@garrrikkotua](https://twitter.com/garrrikkotua)
+Any questions or suggestions? Feel free to DM project maintainers [@jonathimer](https://twitter.com/jonathimer)
 
 --------------------
 
