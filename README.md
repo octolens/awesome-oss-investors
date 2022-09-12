@@ -8,7 +8,7 @@ VCs are added to the list if:
 
 This list is work in progress, so please don't hesitate to [contribute](.github/CONTRIBUTING.md) and add VCs. Let's build the most comprehensive list together.
 
-Any questions or suggestions? Feel free to DM project maintainer [@jonathimer](https://twitter.com/jonathimer)
+Any questions or suggestions? Feel free to DM project maintainers [@jonathimer](https://twitter.com/jonathimer) or [@garrrikkotua](https://twitter.com/garrrikkotua)
 
 --------------------
 
