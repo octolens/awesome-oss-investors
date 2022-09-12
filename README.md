@@ -21,7 +21,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 |VC|Stage|Ticket size|HQ|Exemplary investments|
 |:-------|:------|:----------|:----------:|:------------:|
 [Lunar Ventures](https://lunar.vc/) | Pre-Seed/Seed | $0.3-1M | Germany | deepset, WASP, nannyML |
-[Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.25-0.5M | UK | Meilisearch, Medusa,  Cerbos |
+[Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | Meilisearch, Medusa,  Cerbos |
 [OSS Capital](https://oss.capital/) | Pre-Seed/Seed | $0.1-6M | US | Rocket.chat, Cal.com, Forem, Remix |
 [Runa Capital](https://runacap.com/) | Seed, Series A+B | $1-10M | US | MariaDB, n8n, SellerLabs, OpenReplay |
 [Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | Docker, Redis, Netdata |
