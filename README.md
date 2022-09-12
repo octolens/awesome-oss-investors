@@ -6,7 +6,7 @@ VCs are added to the list if:
 1. They invested in at least 3 startups where the product is strongly based on an open-source repo
 2. They are still investing actively
 
-This list is work in progress, so please don't hesitate to [contribute](https://github.com/CrowdDotDev/awesome-oss-investors/blob/main/CONTRIBUTING.md) and add VCs. Let's build the most comprehensive list together.
+This list is work in progress, so please don't hesitate to [contribute](https://github.com/CrowdDotDev/awesome-oss-investors/blob/main/CONTRIBUTING.md) and add VCs.
 
 Any questions or suggestions? Feel free to DM project maintainers [@jonathimer](https://twitter.com/jonathimer) or [@garrrikkotua](https://twitter.com/garrrikkotua)
 
