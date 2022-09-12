@@ -26,7 +26,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [Runa Capital](https://runacap.com/) | Seed, Series A+B | $1-10M | US | MariaDB, n8n, SellerLabs, OpenReplay |
 [Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | Docker, Redis, Netdata |
 [Lightspeed Venture Partners](https://lsvp.com/) | Multi Stage | | US | Grafana Labs, Hasura, ClickHouse |
-[NEA](https://www.nea.com/) | Multi Stage | | US | Metabase, Elastic, TimescaleDB, NGINX |
+[NEA Partners](https://www.nea.com/) | Multi Stage | | US | Metabase, Elastic, TimescaleDB, NGINX |
 
 
 <!-- END VC LIST -->
