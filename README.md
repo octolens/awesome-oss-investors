@@ -30,6 +30,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [OSS Capital](https://oss.capital/) | Pre-Seed/Seed | $0.1-6M | US | Rocket.chat, Cal.com, Forem, Remix |
 [Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | Apollo, Crunchy Data, Gradle |
 [468 Capital](https://www.468cap.com/) | Seed, Series A | $1-15M | Germany / US | QuestDB, Wasmer, Iterative.ai, Garden.io |
+[Decibel](https://decibel.vc/) | Seed, Series A | | US | Botpress, Cube, Pachyderm |
 [Runa Capital](https://runacap.com/) | Seed, Series A+B | $1-10M | US | MariaDB, n8n, SellerLabs, OpenReplay |
 [Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | Docker, Redis, Netdata |
 [Lightspeed Venture Partners](https://lsvp.com/) | Multi Stage | | US | Grafana Labs, Hasura, ClickHouse |
