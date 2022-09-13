@@ -20,7 +20,8 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 
 |VC|Stage|Ticket size|HQ|Exemplary investments|
 |:-------|:------|:----------|:----------:|:------------:|
-[Crane](https://crane.vc/) | Pre-Seed/Seed | $0.1-6M | UK | Novu, ZenML, Cerbos, Gitpod |
+[Crane](https://crane.vc/) | Pre-Seed/Seed | $1-6M | UK | Novu, ZenML, Cerbos, Gitpod |
+[Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | GitGuarian, Evidently AI, Objectiv |
 [Lunar Ventures](https://lunar.vc/) | Pre-Seed/Seed | $0.3-1M | Germany | deepset, WASP, nannyML |
 [Firstminute Capital](https://www.firstminute.capital/) | Pre-Seed/Seed | $0.25-5M | UK | Element, n8n, Nuxt.js, Quickwit |
 [Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | Meilisearch, Medusa,  Cerbos |
