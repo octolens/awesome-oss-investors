@@ -20,6 +20,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 
 |VC|Stage|Ticket size|HQ|Exemplary investments|
 |:-------|:------|:----------|:----------:|:------------:|
+[Boldstart](https://boldstart.vc/) | Pre-Seed/Seed | $0.5-5M | US | Liveblocks, Cloudquery, Darklang |
 [Crane](https://crane.vc/) | Pre-Seed/Seed | $1-6M | UK | Novu, ZenML, Cerbos, Gitpod |
 [Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | GitGuardian, Evidently AI, Objectiv |
 [Lunar Ventures](https://lunar.vc/) | Pre-Seed/Seed | $0.3-1M | Germany | deepset, WASP, nannyML |
