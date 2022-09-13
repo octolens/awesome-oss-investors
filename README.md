@@ -22,6 +22,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 |:-------|:------|:----------|:----------:|:------------:|
 [Crane](https://crane.vc/) | Pre-Seed/Seed | $0.1-6M | UK | Novu, ZenML, Cerbos, Gitpod |
 [Lunar Ventures](https://lunar.vc/) | Pre-Seed/Seed | $0.3-1M | Germany | deepset, WASP, nannyML |
+[Firstminute Capital]([https://lunar.vc/](https://www.firstminute.capital/)) | Pre-Seed/Seed | $0.25-5M | UK | Element, n8n, Nuxt.js, Quickwit |
 [Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | Meilisearch, Medusa,  Cerbos |
 [OSS Capital](https://oss.capital/) | Pre-Seed/Seed | $0.1-6M | US | Rocket.chat, Cal.com, Forem, Remix |
 [468 Capital](https://www.468cap.com/) | Seed, Series A | $1-15M | Germany / US | QuestDB, Wasmer, Iterative.ai. Garden.io |
