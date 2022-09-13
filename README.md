@@ -30,7 +30,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [Y Combinator](https://www.ycombinator.com/) | Pre-Seed/Seed | $0.5M | US | Apollo, Posthog, MindsDB |
 [OSS Capital](https://oss.capital/) | Pre-Seed/Seed | $0.1-6M | US | Rocket.chat, Cal.com, Forem, Remix |
 [Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | Apollo, Crunchy Data, Gradle |
-[btov](https://www.btov.vc/) | Pre-Seed/Seed, Series A+ | $0.25-20M | Switzerland, Germany, Luxemburg | LyncCare, Kubermatic, golayer.io |
+[btov](https://www.btov.vc/) | Pre-Seed/Seed, Series A+ | $0.25-20M | Switzerland, Germany, Luxemburg | LynxCare, Kubermatic, golayer.io |
 [Decibel](https://decibel.vc/) | Seed, Series A | | US | Botpress, Cube, Pachyderm |
 [Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain | Abiquo, Boxy, Mistho |
 [468 Capital](https://www.468cap.com/) | Seed, Series A | $1-15M | Germany / US | QuestDB, Wasmer, Iterative.ai, Garden.io |
@@ -38,7 +38,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | Docker, Redis, Netdata |
 [Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | Confluent, Starburst, Datadog |
 [Lightspeed Venture Partners](https://lsvp.com/) | Multi Stage | | US | Grafana Labs, Hasura, ClickHouse |
+[Sapphire Ventures](https://sapphireventures.com/) | Multi Stage | | US | influxdata, Mirantis, yugabyteDB |
 [NEA Partners](https://www.nea.com/) | Multi Stage | | US | Metabase, Elastic, TimescaleDB, NGINX |
-
 
 <!-- END VC LIST -->
