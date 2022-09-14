@@ -19,6 +19,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 
 |VC|Stage|Ticket size|HQ|Exemplary investments|
 |:-------|:------|:----------|:----------:|:------------:|
+[Abstraction Capital](https://abstraction.vc/) | Pre-Seed/Seed | $0.1-4M | US | [Buf](https://buf.build/), [Parabeac](https://parabeac.com/), [Ivy](https://lets-unify.ai/), [Wasp](https://wasp-lang.dev/) |
 [Boldstart](https://boldstart.vc/) | Pre-Seed/Seed | $0.5-5M | US | Liveblocks, Cloudquery, Darklang |
 [Crane](https://crane.vc/) | Pre-Seed/Seed | $1-6M | UK | Novu, ZenML, Cerbos, Gitpod |
 [Essence VC](https://www.essencevc.fund/) | Pre-Seed/Seed | $0.5-5M | US | ReadySet, Project Discovery, Encore |
