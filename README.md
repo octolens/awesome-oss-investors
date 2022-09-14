@@ -25,7 +25,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [Firstminute Capital](https://www.firstminute.capital/) | Pre-Seed/Seed | $0.25-5M | UK | Element, n8n, Nuxt.js, Quickwit |
 [Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | GitGuardian, Evidently AI, Objectiv |
 [Lunar Ventures](https://lunar.vc/) | Pre-Seed/Seed | $0.3-1M | Germany | deepset, WASP, nannyML |
-[OSS Capital](https://oss.capital/) | Pre-Seed/Seed | $0.1-6M | US | Rocket.chat, Cal.com, Forem, Remix |
+[OSS Capital](https://oss.capital/) | Pre-Seed/Seed | $0.1-6M | US | Rocket.chat, Cal.com, Forem, Remix, [OpenBB](www.openbb.co) |
 [Open Core Ventures](https://opencoreventures.com/) | Pre-Seed/Seed | $0.1-2M | US | Fleet, FlowForge, Mermaid Chart |
 [Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | Meilisearch, Medusa,  Cerbos |
 [Y Combinator](https://www.ycombinator.com/) | Pre-Seed/Seed | $0.5M | US | Apollo, Posthog, MindsDB |
