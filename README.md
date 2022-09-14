@@ -37,7 +37,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [btov](https://www.btov.vc/) | Pre-Seed/Seed, Series A+ | $0.25-20M | Switzerland, Germany, Luxemburg | LynxCare, Kubermatic, golayer.io |
 [Decibel](https://decibel.vc/) | Seed, Series A | | US | Botpress, Cube, Pachyderm |
 [MMC Ventures](https://mmc.vc/) | Seed, Series A | UK | [Snowplow](https://snowplow.io/), [Tyk.io](https://tyk.io/), [MindsDB](https://mindsdb.com/) |
-[Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain | Abiquo, Boxy, Mistho |
+[Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain, Germany | Kubermatic, Nhost, Boxy |
 [True Ventures](https://trueventures.com/) | Seed, Series A | $1-10M | US | Hashicorp, Puppet, Npm |
 [Vertex Ventures US](https://vvus.com/) | Seed, Series A | $0.5-10M | US | Hasura, Gitpod, Orkes |
 [468 Capital](https://www.468cap.com/) | Seed, Series A | $1-15M | Germany | QuestDB, Wasmer, Iterative.ai, Garden.io |
