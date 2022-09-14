@@ -9,8 +9,6 @@ VCs are added to the list if:
 ## Contributing
 This list is work in progress, so please don't hesitate to [contribute](https://github.com/CrowdDotDev/awesome-oss-investors/blob/main/CONTRIBUTING.md) and add VCs.
 
-Any questions or suggestions? Feel free to DM the maintainer [@jonathimer](https://twitter.com/jonathimer)
-
 --------------------
 
 ## VC List
@@ -45,3 +43,5 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [NEA Partners](https://www.nea.com/) | Multi Stage | | US | Metabase, Elastic, TimescaleDB, NGINX |
 
 <!-- END VC LIST -->
+
+Any questions or suggestions? Feel free to DM the maintainer [@jonathimer](https://twitter.com/jonathimer)
