@@ -30,6 +30,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [Open Core Ventures](https://opencoreventures.com/) | Pre-Seed/Seed | $0.1-2M | US | Fleet, FlowForge, Mermaid Chart |
 [Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | Meilisearch, Medusa,  Cerbos |
 [Y Combinator](https://www.ycombinator.com/) | Pre-Seed/Seed | $0.5M | US | Apollo, Posthog, MindsDB |
+[Basis Set](https://www.basisset.com/) | Pre-Seed/Seed, Series A | $0.1-4M | US | [Rasa](https://rasa.com/), [Orchest](https://www.orchest.io/), [FerretDB](https://www.ferretdb.io/) |
 [Gradient Ventures](https://www.gradient.com/) | Pre-Seed/Seed, Series A | | US | Orchest, Streamlit, Moov.io |
 [Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | Apollo, Crunchy Data, Gradle |
 [btov](https://www.btov.vc/) | Pre-Seed/Seed, Series A+ | $0.25-20M | Switzerland, Germany, Luxemburg | LynxCare, Kubermatic, golayer.io |
