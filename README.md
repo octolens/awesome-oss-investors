@@ -24,6 +24,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [Essence VC](https://www.essencevc.fund/) | Pre-Seed/Seed | $0.5-5M | US | ReadySet, Project Discovery, Encore |
 [Firstminute Capital](https://www.firstminute.capital/) | Pre-Seed/Seed | $0.25-5M | UK | Element, n8n, Nuxt.js, Quickwit |
 [Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | GitGuardian, Evidently AI, Objectiv |
+[Mango Capital](https://www.mangocapitalinc.com/) | Pre-Seed/Seed | $0.5-2M | US | Hashicorp, Couchbase, InfluxData |
 [Lunar Ventures](https://lunar.vc/) | Pre-Seed/Seed | $0.3-1M | Germany | deepset, WASP, nannyML |
 [OSS Capital](https://oss.capital/) | Pre-Seed/Seed | $0.1-6M | US | Rocket.chat, Cal.com, Forem, Remix |
 [Open Core Ventures](https://opencoreventures.com/) | Pre-Seed/Seed | $0.1-2M | US | Fleet, FlowForge, Mermaid Chart |
