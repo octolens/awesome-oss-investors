@@ -40,6 +40,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | Confluent, Starburst, Datadog |
 [Lightspeed Venture Partners](https://lsvp.com/) | Multi Stage | | US | Grafana Labs, Hasura, ClickHouse |
 [Sapphire Ventures](https://sapphireventures.com/) | Multi Stage | | US | influxdata, Mirantis, yugabyteDB |
+[Sequoia Capital](https://www.sequoiacap.com/) | Multi Stage | | US | Grafana Labs, R2C, Oso, Stemma |
 [NEA Partners](https://www.nea.com/) | Multi Stage | | US | Metabase, Elastic, TimescaleDB, NGINX |
 
 <!-- END VC LIST -->
