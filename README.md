@@ -46,6 +46,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Runa Capital](https://runacap.com/) | Seed, Series A+B | $1-10M | US | NGINX, MariaDB, n8n, OpenReplay |
 [Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | Docker, Redis, Netdata |
 [Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | Confluent, Starburst, Datadog |
+[Insight Partners](https://www.insightpartners.com/)* | Multi Stage | | US | [JFrog](https://jfrog.com/), [Docker](https://www.docker.com/), [SonarSource](https://www.sonarsource.com/), [Metabase](https://www.metabase.com/) |
 [Kleiner Perkins](https://www.kleinerperkins.com/) | Multi Stage | | US | [Prisma](https://www.prisma.io/), [Materialize](https://materialize.com/), [Oven](https://oven.sh/) |
 [Lightspeed Venture Partners](https://lsvp.com/) | Multi Stage | | US | Grafana Labs, Hasura, ClickHouse |
 [Sapphire Ventures](https://sapphireventures.com/) | Multi Stage | | US | influxdata, Mirantis, yugabyteDB |
