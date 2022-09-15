@@ -15,7 +15,7 @@ This list is work in progress, so please don't hesitate to [contribute](https://
 
 All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical order).
 
-VCs that are maked with a (*) are purely dedicated to open-source and/or did more than 10 investments in commercial open-source startups.
+VCs marked with a (*) are dedicated exclusively to commercial open-source and/or have made more than 10 investments in commercial open source startups.
 
 <!-- BEGIN VC LIST -->
 
