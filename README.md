@@ -39,6 +39,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | Apollo, Crunchy Data, Gradle |
 [btov](https://www.btov.vc/) | Pre-Seed/Seed, Series A+ | $0.25-20M | Switzerland, Germany, Luxemburg | LynxCare, Kubermatic, golayer.io |
 [Decibel](https://decibel.vc/) | Seed, Series A | | US | Botpress, Cube, Pachyderm |
+[Innovation Endeavors](https://www.innovationendeavors.com/) | Seed, Series A | $1-12M | US | [Earthly](https://earthly.dev/), [Kong](https://konghq.com/),  [ScyllaDB](https://www.scylladb.com/), [Cube](https://cube.dev/) |
 [MMC Ventures](https://mmc.vc/)| Seed, Series A | | UK | [Snowplow](https://snowplow.io/), [Tyk.io](https://tyk.io/), [MindsDB](https://mindsdb.com/) |
 [Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain, Germany | Kubermatic, Nhost, Boxy |
 [True Ventures](https://trueventures.com/) | Seed, Series A | $1-10M | US | Hashicorp, Puppet, Npm |
