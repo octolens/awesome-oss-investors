@@ -15,6 +15,8 @@ This list is work in progress, so please don't hesitate to [contribute](https://
 
 All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical order).
 
+VCs that are maked with a (*) are purely dedicated to open-source and/or did more than 10 investments in commercial open-source startups.
+
 <!-- BEGIN VC LIST -->
 
 |VC|Stage|Ticket size|HQ|Exemplary investments|
@@ -27,10 +29,10 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | GitGuardian, Evidently AI, Objectiv |
 [Mango Capital](https://www.mangocapitalinc.com/) | Pre-Seed/Seed | $0.5-2M | US | Hashicorp, Couchbase, InfluxData |
 [Lunar Ventures](https://lunar.vc/) | Pre-Seed/Seed | $0.3-1M | Germany | deepset, WASP, nannyML |
-[OSS Capital](https://oss.capital/) | Pre-Seed/Seed | $0.1-6M | US | [Rocket.chat](https://www.rocket.chat/), [Cal.com](https://cal.com/), [Forem](https://www.forem.com/), [Remix](https://remix.run/), [OpenBB](https://openbb.co/) |
-[Open Core Ventures](https://opencoreventures.com/) | Pre-Seed/Seed | $0.1-2M | US | Fleet, FlowForge, Mermaid Chart |
+[OSS Capital](https://oss.capital/)* | Pre-Seed/Seed | $0.1-6M | US | [Rocket.chat](https://www.rocket.chat/), [Cal.com](https://cal.com/), [Forem](https://www.forem.com/), [Remix](https://remix.run/), [OpenBB](https://openbb.co/) |
+[Open Core Ventures](https://opencoreventures.com/)* | Pre-Seed/Seed | $0.1-2M | US | Fleet, FlowForge, Mermaid Chart |
 [Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | Meilisearch, Medusa,  Cerbos |
-[Y Combinator](https://www.ycombinator.com/) | Pre-Seed/Seed | $0.5M | US | Apollo, Posthog, MindsDB |
+[Y Combinator](https://www.ycombinator.com/)* | Pre-Seed/Seed | $0.5M | US | Apollo, Posthog, MindsDB |
 [Basis Set](https://www.basisset.com/) | Pre-Seed/Seed, Series A | $0.1-4M | US | [Rasa](https://rasa.com/), [Orchest](https://www.orchest.io/), [FerretDB](https://www.ferretdb.io/) |
 [Gradient Ventures](https://www.gradient.com/) | Pre-Seed/Seed, Series A | | US | [Orchest](https://www.orchest.io/), Streamlit, Moov.io |
 [Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | Apollo, Crunchy Data, Gradle |
@@ -46,7 +48,7 @@ All VCs in the list are sorted by 1) investment stage and 2) name (alphabetical 
 [Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | Confluent, Starburst, Datadog |
 [Lightspeed Venture Partners](https://lsvp.com/) | Multi Stage | | US | Grafana Labs, Hasura, ClickHouse |
 [Sapphire Ventures](https://sapphireventures.com/) | Multi Stage | | US | influxdata, Mirantis, yugabyteDB |
-[Sequoia Capital](https://www.sequoiacap.com/) | Multi Stage | | US | Grafana Labs, R2C, Oso, Stemma |
+[Sequoia Capital](https://www.sequoiacap.com/)* | Multi Stage | | US | Grafana Labs, R2C, Oso, Stemma |
 [NEA Partners](https://www.nea.com/) | Multi Stage | | US | Metabase, Elastic, TimescaleDB, NGINX |
 
 <!-- END VC LIST -->
