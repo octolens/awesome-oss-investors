@@ -46,7 +46,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [468 Capital](https://www.468cap.com/) | Seed, Series A | $1-15M | Germany | QuestDB, Wasmer, Iterative.ai, Garden.io |
 [Runa Capital](https://runacap.com/) | Seed, Series A+B | $1-10M | US | NGINX, MariaDB, n8n, OpenReplay |
 [a16z](https://a16z.com/)* | Multi Stage | | US | [Sourcegraph](https://about.sourcegraph.com/), [Rasa](https://rasa.com/), [dbt](https://www.getdbt.com/) |
-[Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | Docker, Redis, Netdata |
+[Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | [Docker](https://www.docker.com/), [Tecton](https://www.tecton.ai/), [Redis](https://redis.com/), [Startree](https://www.startree.ai/), [Cube](https://cube.dev/), [Lightning AI](https://lightning.ai/), [Netdata](https://www.netdata.cloud/) |
 [Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | Confluent, Starburst, Datadog |
 [Insight Partners](https://www.insightpartners.com/)* | Multi Stage | | US | [JFrog](https://jfrog.com/), [Docker](https://www.docker.com/), [SonarSource](https://www.sonarsource.com/), [Metabase](https://www.metabase.com/) |
 [Kleiner Perkins](https://www.kleinerperkins.com/) | Multi Stage | | US | [Prisma](https://www.prisma.io/), [Materialize](https://materialize.com/), [Oven](https://oven.sh/) |
