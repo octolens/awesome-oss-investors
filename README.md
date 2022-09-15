@@ -41,6 +41,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Decibel](https://decibel.vc/) | Seed, Series A | | US | Botpress, Cube, Pachyderm |
 [MMC Ventures](https://mmc.vc/)| Seed, Series A | | UK | [Snowplow](https://snowplow.io/), [Tyk.io](https://tyk.io/), [MindsDB](https://mindsdb.com/) |
 [Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain, Germany | Kubermatic, Nhost, Boxy |
+[SignalFire](https://signalfire.com) | Seed, Series B+ | $1-$30M | US | [Budibase](https://budibase.com), [PlanetScale](https://planetscale.com), [ProjectDiscovery](https://projectdiscovery.com), [Explosion.ai](https://spacy.io)
 [True Ventures](https://trueventures.com/) | Seed, Series A | $1-10M | US | Hashicorp, Puppet, Npm |
 [Vertex Ventures US](https://vvus.com/) | Seed, Series A | $0.5-10M | US | Hasura, Gitpod, Orkes |
 [468 Capital](https://www.468cap.com/) | Seed, Series A | $1-15M | Germany | QuestDB, Wasmer, Iterative.ai, Garden.io |
