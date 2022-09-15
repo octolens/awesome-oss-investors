@@ -22,6 +22,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 |VC|Stage|Ticket size|HQ|Exemplary investments|
 |:-------|:------|:----------|:----------:|:------------:|
 [Abstraction Capital](https://abstraction.vc/) | Pre-Seed/Seed | $0.1-4M | US | [Buf](https://buf.build/), [Parabeac](https://parabeac.com/), [Ivy](https://lets-unify.ai/), [Wasp](https://wasp-lang.dev/) |
+[Angel Invest](https://www.angelinvest.ventures/) | Pre-Seed/Seed | $0.1 | Germany | [Rasa](https://rasa.com/), [Resoto](https://resoto.com/), [Dagshub](https://dagshub.com/), [Deta](https://www.deta.sh/), [MindsDB](https://mindsdb.com/) |
 [Boldstart](https://boldstart.vc/) | Pre-Seed/Seed | $0.5-5M | US | [Liveblocks](https://liveblocks.io/), [Cloudquery](https://www.cloudquery.io/), [Darklang](https://darklang.com/) |
 [Crane](https://crane.vc/) | Pre-Seed/Seed | $1-6M | UK | Novu, ZenML, Cerbos, Gitpod |
 [Essence VC](https://www.essencevc.fund/) | Pre-Seed/Seed | $0.5-5M | US | ReadySet, Project Discovery, Encore |
@@ -32,7 +33,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [OSS Capital](https://oss.capital/)* | Pre-Seed/Seed | $0.1-6M | US | [Rocket.chat](https://www.rocket.chat/), [Cal.com](https://cal.com/), [Forem](https://www.forem.com/), [Remix](https://remix.run/), [OpenBB](https://openbb.co/) |
 [Open Core Ventures](https://opencoreventures.com/)* | Pre-Seed/Seed | $0.1-2M | US | Fleet, FlowForge, Mermaid Chart |
 [Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | Meilisearch, Medusa,  Cerbos |
-[Y Combinator](https://www.ycombinator.com/)* | Pre-Seed/Seed | $0.5M | US | Apollo, Posthog, MindsDB |
+[Y Combinator](https://www.ycombinator.com/)* | Pre-Seed/Seed | $0.5M | US | Apollo, Posthog, [MindsDB](https://mindsdb.com/) |
 [Basis Set](https://www.basisset.com/) | Pre-Seed/Seed, Series A | $0.1-4M | US | [Rasa](https://rasa.com/), [Orchest](https://www.orchest.io/), [FerretDB](https://www.ferretdb.io/) |
 [Gradient Ventures](https://www.gradient.com/) | Pre-Seed/Seed, Series A | | US | [Orchest](https://www.orchest.io/), Streamlit, Moov.io |
 [Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | Apollo, Crunchy Data, Gradle |
