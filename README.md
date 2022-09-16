@@ -38,23 +38,23 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Gradient Ventures](https://www.gradient.com/) | Pre-Seed/Seed, Series A | | US | [Orchest](https://www.orchest.io/), [Streamlit](https://streamlit.io/), [Moov.io](https://moov.io/) |
 [Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | [Apollo](https://www.apollographql.com/), [Crunchy Data](https://www.crunchydata.com/), [Gradle](https://gradle.org/) |
 [btov](https://www.btov.vc/) | Pre-Seed/Seed, Series A+ | $0.25-20M | Switzerland, Germany, Luxemburg | [QuantumSimulations](https://quantumsimulations.de/solutions), [Kubermatic](https://www.kubermatic.com/), [deepcode](https://www.deepcode.ai/) |
-[Decibel](https://decibel.vc/) | Seed, Series A | | US | [Botpress](https://botpress.com/), Cube, Pachyderm |
+[Decibel](https://decibel.vc/) | Seed, Series A | | US | [Botpress](https://botpress.com/), [Cube](https://cube.dev/), [Pachyderm](https://www.pachyderm.com/) |
 [SignalFire](https://signalfire.com/) | Seed, Series A, B | $0.25-20M | US | [Plural](https://www.plural.sh/), [Anchore](https://anchore.com/), [Crave](https://crave.io/) |
 [MMC Ventures](https://mmc.vc/)| Seed, Series A | | UK | [Snowplow](https://snowplow.io/), [Tyk.io](https://tyk.io/), [MindsDB](https://mindsdb.com/) |
-[Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain, Germany | Kubermatic, Nhost, Boxy |
-[True Ventures](https://trueventures.com/) | Seed, Series A | $1-10M | US | Hashicorp, Puppet, Npm |
-[Vertex Ventures US](https://vvus.com/) | Seed, Series A | $0.5-10M | US | Hasura, Gitpod, Orkes |
-[468 Capital](https://www.468cap.com/) | Seed, Series A | $1-15M | Germany | QuestDB, Wasmer, Iterative.ai, Garden.io |
-[Runa Capital](https://runacap.com/) | Seed, Series A+B | $1-10M | US | NGINX, MariaDB, n8n, OpenReplay |
+[Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain, Germany | [Kubermatic](https://www.kubermatic.com/), [Nhost](https://nhost.io/), [Boxy](https://boxyhq.com/) |
+[True Ventures](https://trueventures.com/) | Seed, Series A | $1-10M | US | [Hashicorp](https://www.hashicorp.com/), [Puppet](https://puppet.com/), [Npm](https://www.npmjs.com/) |
+[Vertex Ventures US](https://vvus.com/) | Seed, Series A | $0.5-10M | US | [Hasura](https://hasura.io/), [Gitpod](https://gitpod.io), [Orkes](https://orkes.io/) |
+[468 Capital](https://www.468cap.com/) | Seed, Series A | $1-15M | Germany | [QuestDB](https://questdb.io/), [Wasmer](https://wasmer.io/), [Iterative.ai](https://iterative.ai/), [Garden.io](https://garden.io/) |
+[Runa Capital](https://runacap.com/) | Seed, Series A+B | $1-10M | US | [NGINX](https://www.nginx.com/), [MariaDB](https://mariadb.com/), [n8n](https://n8n.io/), [OpenReplay](https://openreplay.com/) |
 [a16z](https://a16z.com/)* | Multi Stage | | US | [Sourcegraph](https://about.sourcegraph.com/), [Rasa](https://rasa.com/), [dbt](https://www.getdbt.com/) |
-[Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | Docker, Redis, Netdata |
-[Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | Confluent, Starburst, Datadog |
+[Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | [Docker](https://www.docker.com/), [Redis](https://redis.io/), [Netdata](https://www.netdata.cloud/) |
+[Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | [Confluent](https://www.confluent.io/), [Starburst](https://www.starburst.io/), [Datadog](https://www.datadoghq.com/) |
 [Insight Partners](https://www.insightpartners.com/)* | Multi Stage | | US | [JFrog](https://jfrog.com/), [Docker](https://www.docker.com/), [SonarSource](https://www.sonarsource.com/), [Metabase](https://www.metabase.com/) |
 [Kleiner Perkins](https://www.kleinerperkins.com/) | Multi Stage | | US | [Prisma](https://www.prisma.io/), [Materialize](https://materialize.com/), [Oven](https://oven.sh/) |
-[Lightspeed Venture Partners](https://lsvp.com/) | Multi Stage | | US | Grafana Labs, Hasura, ClickHouse |
-[Sapphire Ventures](https://sapphireventures.com/) | Multi Stage | | US | influxdata, Mirantis, yugabyteDB |
-[Sequoia Capital](https://www.sequoiacap.com/)* | Multi Stage | | US | Grafana Labs, R2C, Oso, Stemma |
-[NEA Partners](https://www.nea.com/) | Multi Stage | | US | Metabase, Elastic, TimescaleDB, NGINX |
+[Lightspeed Venture Partners](https://lsvp.com/) | Multi Stage | | US | [Grafana Labs](https://grafana.com/), [Hasura](https://hasura.io/), [ClickHouse](https://clickhouse.com/) |
+[Sapphire Ventures](https://sapphireventures.com/) | Multi Stage | | US | [InfluxData](https://www.influxdata.com/), [Mirantis](https://www.mirantis.com/), [yugabyteDB](https://www.yugabyte.com/) |
+[Sequoia Capital](https://www.sequoiacap.com/)* | Multi Stage | | US | [Grafana Labs](https://grafana.com/), [R2C](https://r2c.dev/), [Oso](https://www.osohq.com/), [Stemma](https://www.stemma.ai/) |
+[NEA Partners](https://www.nea.com/) | Multi Stage | | US | [Metabase](https://www.metabase.com/), [Elastic](https://www.elastic.co/), [TimescaleDB](https://www.timescale.com/), [NGINX](https://www.nginx.com/) |
 
 <!-- END VC LIST -->
 
