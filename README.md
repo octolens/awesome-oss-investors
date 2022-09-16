@@ -24,21 +24,21 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Abstraction Capital](https://abstraction.vc/) | Pre-Seed/Seed | $0.1-4M | US | [Buf](https://buf.build/), [Parabeac](https://parabeac.com/), [Ivy](https://lets-unify.ai/), [Wasp](https://wasp-lang.dev/) |
 [Angel Invest](https://www.angelinvest.ventures/) | Pre-Seed/Seed | $0.1M | Germany | [Rasa](https://rasa.com/), [Resoto](https://resoto.com/), [Dagshub](https://dagshub.com/), [Deta](https://www.deta.sh/), [MindsDB](https://mindsdb.com/) |
 [Boldstart](https://boldstart.vc/) | Pre-Seed/Seed | $0.5-5M | US | [Liveblocks](https://liveblocks.io/), [Cloudquery](https://www.cloudquery.io/), [Darklang](https://darklang.com/) |
-[Crane](https://crane.vc/) | Pre-Seed/Seed | $1-6M | UK | Novu, ZenML, Cerbos, Gitpod |
-[Essence VC](https://www.essencevc.fund/) | Pre-Seed/Seed | $0.5-5M | US | ReadySet, Project Discovery, Encore |
-[Firstminute Capital](https://www.firstminute.capital/) | Pre-Seed/Seed | $0.25-5M | UK | Element, [n8n](https://n8n.io/), [Nuxt.js](https://nuxtjs.org/), [Quickwit](https://quickwit.io/) |
-[Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | GitGuardian, Evidently AI, Objectiv |
-[Mango Capital](https://www.mangocapitalinc.com/) | Pre-Seed/Seed | $0.5-2M | US | Hashicorp, Couchbase, InfluxData |
-[Lunar Ventures](https://lunar.vc/) | Pre-Seed/Seed | $0.3-1M | Germany | deepset, WASP, nannyML |
+[Crane](https://crane.vc/) | Pre-Seed/Seed | $1-6M | UK | [Novu](https://novu.co/), [ZenML](https://zenml.io/home), [Cerbos](https://cerbos.dev), [Gitpod](https://gitpod.io) |
+[Essence VC](https://www.essencevc.fund/) | Pre-Seed/Seed | $0.5-5M | US | [ReadySet](https://readyset.io/), [Project Discovery](https://projectdiscovery.io/#/), [Encore](https://encore.dev/) |
+[Firstminute Capital](https://www.firstminute.capital/) | Pre-Seed/Seed | $0.25-5M | UK | [Element](https://element.io/), [n8n](https://n8n.io/), [Nuxt.js](https://nuxtjs.org/), [Quickwit](https://quickwit.io/) |
+[Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | [GitGuardian](https://www.gitguardian.com/), [Evidently AI](https://evidentlyai.com/), [Objectiv](https://objectiv.io/) |
+[Mango Capital](https://www.mangocapitalinc.com/) | Pre-Seed/Seed | $0.5-2M | US | [Hashicorp](https://www.hashicorp.com/), [Couchbase](https://www.couchbase.com/), [InfluxData](https://www.influxdata.com/) |
+[Lunar Ventures](https://lunar.vc/) | Pre-Seed/Seed | $0.3-1M | Germany | [deepset](https://www.deepset.ai/), [WASP](https://wasp-lang.dev/), [nannyML](https://www.nannyml.com/) |
 [OSS Capital](https://oss.capital/)* | Pre-Seed/Seed | $0.1-6M | US | [Rocket.chat](https://www.rocket.chat/), [Cal.com](https://cal.com/), [Forem](https://www.forem.com/), [Remix](https://remix.run/), [OpenBB](https://openbb.co/) |
-[Open Core Ventures](https://opencoreventures.com/)* | Pre-Seed/Seed | $0.1-2M | US | Fleet, FlowForge, Mermaid Chart |
-[Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | Meilisearch, Medusa,  Cerbos |
-[Y Combinator](https://www.ycombinator.com/)* | Pre-Seed/Seed | $0.5M | US | Apollo, Posthog, [MindsDB](https://mindsdb.com/) |
+[Open Core Ventures](https://opencoreventures.com/)* | Pre-Seed/Seed | $0.1-2M | US | [Fleet](https://fleetdm.com/), [FlowForge](https://flowforge.com/), [Mermaid Chart](https://mermaid.live/) |
+[Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | [Meilisearch](https://www.meilisearch.com/), [Medusa](https://medusajs.com/),  [Cerbos](https://cerbos.dev/) |
+[Y Combinator](https://www.ycombinator.com/)* | Pre-Seed/Seed | $0.5M | US | [Apollo](https://www.apollographql.com/), [Posthog](https://posthog.com/), [MindsDB](https://mindsdb.com/) |
 [Basis Set](https://www.basisset.com/) | Pre-Seed/Seed, Series A | $0.1-4M | US | [Rasa](https://rasa.com/), [Orchest](https://www.orchest.io/), [FerretDB](https://www.ferretdb.io/) |
-[Gradient Ventures](https://www.gradient.com/) | Pre-Seed/Seed, Series A | | US | [Orchest](https://www.orchest.io/), Streamlit, Moov.io |
-[Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | Apollo, Crunchy Data, Gradle |
-[btov](https://www.btov.vc/) | Pre-Seed/Seed, Series A+ | $0.25-20M | Switzerland, Germany, Luxemburg | LynxCare, Kubermatic, golayer.io |
-[Decibel](https://decibel.vc/) | Seed, Series A | | US | Botpress, Cube, Pachyderm |
+[Gradient Ventures](https://www.gradient.com/) | Pre-Seed/Seed, Series A | | US | [Orchest](https://www.orchest.io/), [Streamlit](https://streamlit.io/), [Moov.io](https://moov.io/) |
+[Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | [Apollo](https://www.apollographql.com/), [Crunchy Data](https://www.crunchydata.com/), [Gradle](https://gradle.org/) |
+[btov](https://www.btov.vc/) | Pre-Seed/Seed, Series A+ | $0.25-20M | Switzerland, Germany, Luxemburg | [QuantumSimulations](https://quantumsimulations.de/solutions), [Kubermatic](https://www.kubermatic.com/), [deepcode](https://www.deepcode.ai/) |
+[Decibel](https://decibel.vc/) | Seed, Series A | | US | [Botpress](https://botpress.com/), Cube, Pachyderm |
 [SignalFire](https://signalfire.com/) | Seed, Series A, B | $0.25-20M | US | [Plural](https://www.plural.sh/), [Anchore](https://anchore.com/), [Crave](https://crave.io/) |
 [MMC Ventures](https://mmc.vc/)| Seed, Series A | | UK | [Snowplow](https://snowplow.io/), [Tyk.io](https://tyk.io/), [MindsDB](https://mindsdb.com/) |
 [Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain, Germany | Kubermatic, Nhost, Boxy |
