@@ -36,9 +36,9 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Speedinvest](https://speedinvest.com/) | Pre-Seed/Seed | $0.7-3M | Europe | [mindsDB](https://mindsdb.com/), [crate.io](https://crate.io/), [Gitpod](https://gitpod.io), [Qovery](https://www.qovery.com/), [Wasmer](https://wasmer.io/) |
 [Y Combinator](https://www.ycombinator.com/)* | Pre-Seed/Seed | $0.5M | US | [Apollo](https://www.apollographql.com/), [Posthog](https://posthog.com/), [MindsDB](https://mindsdb.com/) |
 [Basis Set](https://www.basisset.com/) | Pre-Seed/Seed, Series A | $0.1-4M | US | [Rasa](https://rasa.com/), [Orchest](https://www.orchest.io/), [FerretDB](https://www.ferretdb.io/) |
+[btov](https://www.btov.vc/) | Pre-Seed/Seed, Series A+ | $0.25-20M | Switzerland, Germany, Luxemburg | [QuantumSimulations](https://quantumsimulations.de/solutions), [Kubermatic](https://www.kubermatic.com/), [deepcode](https://www.deepcode.ai/) |
 [Gradient Ventures](https://www.gradient.com/) | Pre-Seed/Seed, Series A | | US | [Orchest](https://www.orchest.io/), [Streamlit](https://streamlit.io/), [Moov.io](https://moov.io/) |
 [Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | [Apollo](https://www.apollographql.com/), [Crunchy Data](https://www.crunchydata.com/), [Gradle](https://gradle.org/) |
-[btov](https://www.btov.vc/) | Pre-Seed/Seed, Series A+ | $0.25-20M | Switzerland, Germany, Luxemburg | [QuantumSimulations](https://quantumsimulations.de/solutions), [Kubermatic](https://www.kubermatic.com/), [deepcode](https://www.deepcode.ai/) |
 [Decibel](https://decibel.vc/) | Seed, Series A | | US | [Botpress](https://botpress.com/), [Cube](https://cube.dev/), [Pachyderm](https://www.pachyderm.com/) |
 [MMC Ventures](https://mmc.vc/)| Seed, Series A | | UK | [Snowplow](https://snowplow.io/), [Tyk.io](https://tyk.io/), [MindsDB](https://mindsdb.com/) |
 [Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain, Germany | [Kubermatic](https://www.kubermatic.com/), [Nhost](https://nhost.io/), [Boxy](https://boxyhq.com/) |
