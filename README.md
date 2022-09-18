@@ -40,15 +40,16 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Gradient Ventures](https://www.gradient.com/) | Pre-Seed/Seed, Series A | | US | [Orchest](https://www.orchest.io/), [Streamlit](https://streamlit.io/), [Moov.io](https://moov.io/) |
 [Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | [Apollo](https://www.apollographql.com/), [Crunchy Data](https://www.crunchydata.com/), [Gradle](https://gradle.org/) |
 [Decibel](https://decibel.vc/) | Seed, Series A | | US | [Botpress](https://botpress.com/), [Cube](https://cube.dev/), [Pachyderm](https://www.pachyderm.com/) |
+[Innovation Endeavors](https://www.innovationendeavors.com/) | Seed, Series A | $1-12M | US | [Earthly](https://earthly.dev/), [Kong](https://konghq.com/),  [ScyllaDB](https://www.scylladb.com/), [Cube](https://cube.dev/) |
 [MMC Ventures](https://mmc.vc/)| Seed, Series A | | UK | [Snowplow](https://snowplow.io/), [Tyk.io](https://tyk.io/), [MindsDB](https://mindsdb.com/), [BoxyHQ](https://boxyhq.com/) |
-[Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain, Germany | [Kubermatic](https://www.kubermatic.com/), [Nhost](https://nhost.io/), [BoxyHQ](https://boxyhq.com/) |
+[Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain, Germany | [Kubermatic](https://www.kubermatic.com/), [Nhost](https://nhost.io/), [Boxy](https://boxyhq.com/) |
 [SignalFire](https://signalfire.com/) | Seed, Series A, B | $0.25-20M | US | [Plural](https://www.plural.sh/), [Anchore](https://anchore.com/), [Crave](https://crave.io/) |
 [True Ventures](https://trueventures.com/) | Seed, Series A | $1-10M | US | [Hashicorp](https://www.hashicorp.com/), [Puppet](https://puppet.com/), [Npm](https://www.npmjs.com/) |
 [Vertex Ventures US](https://vvus.com/) | Seed, Series A | $0.5-10M | US | [Hasura](https://hasura.io/), [Gitpod](https://gitpod.io), [Orkes](https://orkes.io/) |
 [468 Capital](https://www.468cap.com/) | Seed, Series A | $1-15M | Germany | [QuestDB](https://questdb.io/), [Wasmer](https://wasmer.io/), [Iterative.ai](https://iterative.ai/), [Garden.io](https://garden.io/) |
 [Runa Capital](https://runacap.com/) | Seed, Series A+B | $1-10M | US | [NGINX](https://www.nginx.com/), [MariaDB](https://mariadb.com/), [n8n](https://n8n.io/), [OpenReplay](https://openreplay.com/) |
 [a16z](https://a16z.com/)* | Multi Stage | | US | [Sourcegraph](https://about.sourcegraph.com/), [Rasa](https://rasa.com/), [dbt](https://www.getdbt.com/) |
-[Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | [Docker](https://www.docker.com/), [Redis](https://redis.io/), [Netdata](https://www.netdata.cloud/) |
+[Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | [Docker](https://www.docker.com/), [Tecton](https://www.tecton.ai/), [Redis](https://redis.com/), [Startree](https://www.startree.ai/), [Cube](https://cube.dev/), [Lightning AI](https://lightning.ai/), [Netdata](https://www.netdata.cloud/) |
 [Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | [Confluent](https://www.confluent.io/), [Starburst](https://www.starburst.io/), [Datadog](https://www.datadoghq.com/) |
 [Insight Partners](https://www.insightpartners.com/)* | Multi Stage | | US | [JFrog](https://jfrog.com/), [Docker](https://www.docker.com/), [SonarSource](https://www.sonarsource.com/), [Metabase](https://www.metabase.com/) |
 [Kleiner Perkins](https://www.kleinerperkins.com/) | Multi Stage | | US | [Prisma](https://www.prisma.io/), [Materialize](https://materialize.com/), [Oven](https://oven.sh/) |
@@ -59,4 +60,10 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 
 <!-- END VC LIST -->
 
+## Angel List
+We'll add a list with angels soon. If you're an angel investing in open-source (with at least 3 investments), feel free to open an issue.
+
+A list of active devtool angels (not specifically focused on open-source) can be found [here](https://github.com/sw-yx/devtools-angels).
+
+--------------------
 Any questions or suggestions? Feel free to DM the maintainer [@jonathimer](https://twitter.com/jonathimer)
