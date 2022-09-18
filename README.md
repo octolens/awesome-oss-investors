@@ -59,4 +59,10 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 
 <!-- END VC LIST -->
 
+## Angel List
+We'll add a list with angels soon. If you're an angel investing in open-source (with at least 3 investments), feel free to open an issue.
+
+A list of active devtool angels (not specifically focused on open-source) can be found [here](https://github.com/sw-yx/devtools-angels).
+
+--------------------
 Any questions or suggestions? Feel free to DM the maintainer [@jonathimer](https://twitter.com/jonathimer)
