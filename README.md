@@ -62,6 +62,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Sapphire Ventures](https://sapphireventures.com/) | Multi Stage | | US | [InfluxData](https://www.influxdata.com/), [Mirantis](https://www.mirantis.com/), [yugabyteDB](https://www.yugabyte.com/) |
 [Sequoia Capital](https://www.sequoiacap.com/)* | Multi Stage | | US | [Grafana Labs](https://grafana.com/), [R2C](https://r2c.dev/), [Oso](https://www.osohq.com/), [Stemma](https://www.stemma.ai/) |
 [True Ventures](https://www.trueventures.com/) | Multi Stage | | US | [NPM](https://www.npmjs.com/), [Tribute Labs](https://tributelabs.xyz/), [Gradle](https://gradle.org/)|
+[Altimeter](https://www.altimeter.com/) | Late Stage | | US | [Confluent](https://www.confluent.io/), [GitLab](https://about.gitlab.com/), [dbt](https://www.getdbt.com/) |
 
 <!-- END VC LIST -->
 
