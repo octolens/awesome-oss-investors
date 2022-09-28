@@ -47,6 +47,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Innovation Endeavors](https://www.innovationendeavors.com/) | Seed, Series A | $1-12M | US | [Earthly](https://earthly.dev/), [Kong](https://konghq.com/),  [ScyllaDB](https://www.scylladb.com/), [Cube](https://cube.dev/) |
 [MMC Ventures](https://mmc.vc/)| Seed, Series A | | UK | [Snowplow](https://snowplow.io/), [Tyk.io](https://tyk.io/), [MindsDB](https://mindsdb.com/), [BoxyHQ](https://boxyhq.com/) |
 [Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain, Germany | [Kubermatic](https://www.kubermatic.com/), [Nhost](https://nhost.io/), [Boxy](https://boxyhq.com/) |
+[OpenOcean](https://openocean.vc/) | Series A | $2-5M | UK, Finland | [MariaDB](https://mariadb.com/), [MindsDB](https://mindsdb.com/), [MySQL](https://www.mysql.com/), |
 [SignalFire](https://signalfire.com/) | Seed, Series A, B | $0.25-20M | US | [Plural](https://www.plural.sh/), [Anchore](https://anchore.com/), [Crave](https://crave.io/) |
 [True Ventures](https://trueventures.com/) | Seed, Series A | $1-10M | US | [Hashicorp](https://www.hashicorp.com/), [Puppet](https://puppet.com/), [Npm](https://www.npmjs.com/) |
 [Vertex Ventures US](https://vvus.com/) | Seed, Series A | $0.5-10M | US | [Hasura](https://hasura.io/), [Gitpod](https://gitpod.io), [Orkes](https://orkes.io/) |
