@@ -65,6 +65,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Kleiner Perkins](https://www.kleinerperkins.com/) | Multi Stage | | US | [Prisma](https://www.prisma.io/), [Materialize](https://materialize.com/), [Oven](https://oven.sh/) |
 [Lightspeed Venture Partners](https://lsvp.com/) | Multi Stage | | US | [Grafana Labs](https://grafana.com/), [Hasura](https://hasura.io/), [ClickHouse](https://clickhouse.com/) |
 [NEA Partners](https://www.nea.com/) | Multi Stage | | US | [Metabase](https://www.metabase.com/), [Elastic](https://www.elastic.co/), [TimescaleDB](https://www.timescale.com/), [NGINX](https://www.nginx.com/) |
+[Redpoint Ventures](https://www.redpoint.com/) |	Multi Stage |	|	US |	[Hashicorp](https://www.hashicorp.com/), [Cockroach Labs](https://www.cockroachlabs.com/), [Mattermost](https://mattermost.com/) | 
 [Sapphire Ventures](https://sapphireventures.com/) | Multi Stage | | US | [InfluxData](https://www.influxdata.com/), [Mirantis](https://www.mirantis.com/), [yugabyteDB](https://www.yugabyte.com/) |
 [Sequoia Capital](https://www.sequoiacap.com/)* | Multi Stage | | US | [Grafana Labs](https://grafana.com/), [R2C](https://r2c.dev/), [Oso](https://www.osohq.com/), [Stemma](https://www.stemma.ai/) |
 [True Ventures](https://www.trueventures.com/) | Multi Stage | | US | [NPM](https://www.npmjs.com/), [Tribute Labs](https://tributelabs.xyz/), [Gradle](https://gradle.org/)|
