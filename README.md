@@ -56,6 +56,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Accel](https://www.accel.com/) |	Multi Stage |	|	UK |	[Rasa](https://rasa.com/), [Cloudera](https://www.cloudera.com/), [Snyk](https://snyk.io/) | 
 [a16z](https://a16z.com/)* | Multi Stage | | US | [Sourcegraph](https://about.sourcegraph.com/), [Rasa](https://rasa.com/), [dbt](https://www.getdbt.com/) |
 [Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | [Docker](https://www.docker.com/), [Tecton](https://www.tecton.ai/), [Redis](https://redis.com/), [Startree](https://www.startree.ai/), [Cube](https://cube.dev/), [Lightning AI](https://lightning.ai/), [Netdata](https://www.netdata.cloud/) |
+[GV](https://www.gv.com/) |	Multi Stage |	|	US, UK |	[GitLab](https://gitlab.com/), [Redpanda](https://redpanda.com/), [Posthog](https://posthog.com/) | 
 [Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | [Confluent](https://www.confluent.io/), [Starburst](https://www.starburst.io/), [Datadog](https://www.datadoghq.com/) |
 [Insight Partners](https://www.insightpartners.com/)* | Multi Stage | | US | [JFrog](https://jfrog.com/), [Docker](https://www.docker.com/), [SonarSource](https://www.sonarsource.com/), [Metabase](https://www.metabase.com/) |
 [Kleiner Perkins](https://www.kleinerperkins.com/) | Multi Stage | | US | [Prisma](https://www.prisma.io/), [Materialize](https://materialize.com/), [Oven](https://oven.sh/) |
