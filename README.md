@@ -38,6 +38,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | [Meilisearch](https://www.meilisearch.com/), [Medusa](https://medusajs.com/),  [Cerbos](https://cerbos.dev/) |
 [Speedinvest](https://speedinvest.com/) | Pre-Seed/Seed | $0.7-3M | Europe | [mindsDB](https://mindsdb.com/), [crate.io](https://crate.io/), [Gitpod](https://gitpod.io), [Qovery](https://www.qovery.com/), [Wasmer](https://wasmer.io/) |
 [Y Combinator](https://www.ycombinator.com/)* | Pre-Seed/Seed | $0.5M | US | [Apollo](https://www.apollographql.com/), [Posthog](https://posthog.com/), [MindsDB](https://mindsdb.com/) |
+[500 Startups](https://500.co/) |	Pre-Seed / Seed |	$0.025-0.5M |	Global |	[GitLab](https://gitlab.com/), [mycroft](https://mycroft.ai/), [Predictionio](https://www.prediction.io/) | 
 [Basis Set](https://www.basisset.com/) | Pre-Seed/Seed, Series A | $0.1-4M | US | [Rasa](https://rasa.com/), [Orchest](https://www.orchest.io/), [FerretDB](https://www.ferretdb.io/) |
 [btov](https://www.btov.vc/) | Pre-Seed/Seed, Series A+ | $0.25-20M | Switzerland, Germany, Luxemburg | [QuantumSimulations](https://quantumsimulations.de/solutions), [Kubermatic](https://www.kubermatic.com/), [deepcode](https://www.deepcode.ai/) |
 [Gradient Ventures](https://www.gradient.com/) | Pre-Seed/Seed, Series A | | US | [Orchest](https://www.orchest.io/), [Streamlit](https://streamlit.io/), [Moov.io](https://moov.io/) |
