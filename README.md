@@ -63,6 +63,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Coatue](http://www.coatue.com/) |	Multi Stage |	|	US |	[Grafana Labs](https://grafana.com/), [Panther](https://panther.com/), [Starburst](https://www.starburst.io/) | 
 [CRV](https://www.crv.com/) |	Multi Stage |	|	US |	[EDB](https://www.enterprisedb.com), [Chromatic](https://www.chromatic.com/), [RethinkDB](https://rethinkdb.com/) | 
 [GGV](https://www.ggvc.com/) |	Multi Stage |	|	US |	[Hashicorp](https://www.hashicorp.com/), [Kong](https://konghq.com/), [Mindee](https://mindee.com/) | 
+[Goldman Sachs](https://www.growth.gs.com/homepage.html) |	Multi Stage |	|	US |	[WSO2](https://wso2.com/), [mongodb](https://www.mongodb.com/), [Mirantis](https://www.mirantis.com/) | 
 [GV](https://www.gv.com/) |	Multi Stage |	|	US, UK |	[GitLab](https://gitlab.com/), [Redpanda](https://redpanda.com/), [Posthog](https://posthog.com/) | 
 [Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | [Confluent](https://www.confluent.io/), [Starburst](https://www.starburst.io/), [Datadog](https://www.datadoghq.com/) |
 [Insight Partners](https://www.insightpartners.com/)* | Multi Stage | | US | [JFrog](https://jfrog.com/), [Docker](https://www.docker.com/), [SonarSource](https://www.sonarsource.com/), [Metabase](https://www.metabase.com/) |
