@@ -60,14 +60,14 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Accel](https://www.accel.com/) |	Multi Stage |	|	UK |	[Rasa](https://rasa.com/), [Cloudera](https://www.cloudera.com/), [Snyk](https://snyk.io/) | 
 [a16z](https://a16z.com/)* | Multi Stage | | US | [Sourcegraph](https://about.sourcegraph.com/), [Rasa](https://rasa.com/), [dbt](https://www.getdbt.com/) |
 [Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | [Docker](https://www.docker.com/), [Tecton](https://www.tecton.ai/), [Redis](https://redis.com/), [Startree](https://www.startree.ai/), [Cube](https://cube.dev/), [Lightning AI](https://lightning.ai/), [Netdata](https://www.netdata.cloud/) |
-[Bessemer Venture Partners](https://www.bvp.com/) |	Multi Stage |	|	US |	[npm](https://www.npmjs.com/), [Perfect](https://www.prefect.io/), [appwrite](https://appwrite.io/) | 
+[Bessemer Venture Partners](https://www.bvp.com/) |	Multi Stage |	|	US |	[npm](https://www.npmjs.com/), [Prefect](https://www.prefect.io/), [appwrite](https://appwrite.io/) | 
 [Coatue](http://www.coatue.com/) |	Multi Stage |	|	US |	[Grafana Labs](https://grafana.com/), [Panther](https://panther.com/), [Starburst](https://www.starburst.io/) | 
 [CRV](https://www.crv.com/) |	Multi Stage |	|	US |	[EDB](https://www.enterprisedb.com), [Chromatic](https://www.chromatic.com/), [RethinkDB](https://rethinkdb.com/) | 
 [GGV](https://www.ggvc.com/) |	Multi Stage |	|	US |	[Hashicorp](https://www.hashicorp.com/), [Kong](https://konghq.com/), [Mindee](https://mindee.com/) | 
 [Goldman Sachs](https://www.growth.gs.com/homepage.html) |	Multi Stage |	|	US |	[WSO2](https://wso2.com/), [mongodb](https://www.mongodb.com/), [Mirantis](https://www.mirantis.com/) | 
 [GV](https://www.gv.com/) |	Multi Stage |	|	US, UK |	[GitLab](https://gitlab.com/), [Redpanda](https://redpanda.com/), [Posthog](https://posthog.com/) | 
 [Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | [Confluent](https://www.confluent.io/), [Starburst](https://www.starburst.io/), [Datadog](https://www.datadoghq.com/) |
-[Insight Partners](https://www.insightpartners.com/)* | Multi Stage | | US | [JFrog](https://jfrog.com/), [Docker](https://www.docker.com/), [SonarSource](https://www.sonarsource.com/), [Metabase](https://www.metabase.com/) |
+[Insight Partners](https://www.insightpartners.com/)* | Multi Stage | | US | [JFrog](https://jfrog.com/), [Docker](https://www.docker.com/), [SonarSource](https://www.sonarsource.com/), [Metabase](https://www.metabase.com/), [Astronomer](https://www.astronomer.io/) |
 [Kleiner Perkins](https://www.kleinerperkins.com/) | Multi Stage | | US | [Prisma](https://www.prisma.io/), [Materialize](https://materialize.com/), [Oven](https://oven.sh/) |
 [Lightspeed Venture Partners](https://lsvp.com/) | Multi Stage | | US | [Grafana Labs](https://grafana.com/), [Hasura](https://hasura.io/), [ClickHouse](https://clickhouse.com/) |
 [NEA Partners](https://www.nea.com/) | Multi Stage | | US | [Metabase](https://www.metabase.com/), [Elastic](https://www.elastic.co/), [TimescaleDB](https://www.timescale.com/), [NGINX](https://www.nginx.com/) |
@@ -76,6 +76,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Sequoia Capital](https://www.sequoiacap.com/)* | Multi Stage | | US | [Grafana Labs](https://grafana.com/), [R2C](https://r2c.dev/), [Oso](https://www.osohq.com/), [Stemma](https://www.stemma.ai/) |
 [Tiger Global](https://www.tigerglobal.com/) |	Multi Stage |	|	US |	[appwrite](https://appwrite.io/), [Kong](https://konghq.com/), [Redis](https://redis.com/) | 
 [True Ventures](https://www.trueventures.com/) | Multi Stage | | US | [NPM](https://www.npmjs.com/), [Tribute Labs](https://tributelabs.xyz/), [Gradle](https://gradle.org/)|
+[Venrock](https://www.venrock.com/) | Multi Stage | | US | [Astronomer](https://www.astronomer.io/), [Meltano](https://meltano.com), [dGraph](https://dgraph.io/)|
 [Altimeter](https://www.altimeter.com/) | Late Stage | | US | [Confluent](https://www.confluent.io/), [GitLab](https://about.gitlab.com/), [dbt](https://www.getdbt.com/) |
 
 <!-- END VC LIST -->
