@@ -63,6 +63,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Accel](https://www.accel.com/) |	Multi Stage |	|	UK |	[Rasa](https://rasa.com/), [Cloudera](https://www.cloudera.com/), [Snyk](https://snyk.io/) | 
 [a16z](https://a16z.com/)* | Multi Stage | | US | [Sourcegraph](https://about.sourcegraph.com/), [Rasa](https://rasa.com/), [dbt](https://www.getdbt.com/) |
 [Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | [Docker](https://www.docker.com/), [Tecton](https://www.tecton.ai/), [Redis](https://redis.com/), [Startree](https://www.startree.ai/), [Cube](https://cube.dev/), [Lightning AI](https://lightning.ai/), [Netdata](https://www.netdata.cloud/) |
+[Battery](https://www.battery.com/)* |	Multi Stage |	|	US, UK, IL |	[Databricks](https://databricks.com/), [Jfrog](https://jfrog.com/), [Confluent](https://www.confluent.io/) | 
 [Bessemer Venture Partners](https://www.bvp.com/) |	Multi Stage |	|	US |	[npm](https://www.npmjs.com/), [Prefect](https://www.prefect.io/), [appwrite](https://appwrite.io/) | 
 [Coatue](http://www.coatue.com/) |	Multi Stage |	|	US |	[Grafana Labs](https://grafana.com/), [Panther](https://panther.com/), [Starburst](https://www.starburst.io/) | 
 [CRV](https://www.crv.com/) |	Multi Stage |	|	US |	[EDB](https://www.enterprisedb.com), [Chromatic](https://www.chromatic.com/), [RethinkDB](https://rethinkdb.com/) | 
