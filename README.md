@@ -47,6 +47,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Gradient Ventures](https://www.gradient.com/) | Pre-Seed/Seed, Series A | | US | [Orchest](https://www.orchest.io/), [Streamlit](https://streamlit.io/), [Moov.io](https://moov.io/) |
 [Heavybit](https://www.heavybit.com/) | Pre-Seed/Seed, Series A | $0.5-5M | US | [Apollo](https://www.apollographql.com/), [Crunchy Data](https://www.crunchydata.com/), [Gradle](https://gradle.org/) |
 [Hive Ventures](https://www.hiveventures.io/) | Pre-Seed/Seed, Series A | $0.3-0.5M | Taiwan | [Avesha](https://avesha.io/), [Canner](https://cannerdata.com/), [InfuseAI](https://www.infuseai.io/), [Instill AI](https://www.instill.tech/) |
+[Unusual Ventures](https://www.unusual.vc/) | Pre-Seed/Seed, Series A | $0.5-10M | US | [Styra](https://www.styra.com/), [Noq](https://www.noq.dev/), [DataStax](https://www.datastax.com/), [Heartex](https://heartex.com/)|
 [Amplify Partners](https://amplifypartners.com/) | Seed, Series A | | US | [dbt](https://www.getdbt.com/), [Prisma](https://www.prisma.io/), [Sourcegraph](https://about.sourcegraph.com/)|
 [Costanoa](https://www.costanoavc.com/) |	Seed/Series A |	$2-5M |	US |	[Auterion](https://auterion.com/), [FOSSA](https://fossa.com/), [Jitsu](https://jitsu.com/) | 
 [Decibel](https://decibel.vc/) | Seed, Series A | | US | [Botpress](https://botpress.com/), [Cube](https://cube.dev/), [Pachyderm](https://www.pachyderm.com/) |
