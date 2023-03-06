@@ -30,6 +30,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Firstminute Capital](https://www.firstminute.capital/) | Pre-Seed/Seed | $0.25-5M | UK | [Element](https://element.io/), [n8n](https://n8n.io/), [Nuxt.js](https://nuxtjs.org/), [Quickwit](https://quickwit.io/) |
 [Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | [GitGuardian](https://www.gitguardian.com/), [Evidently AI](https://evidentlyai.com/), [Objectiv](https://objectiv.io/) |
 [Haystack](https://Haystack.vc/) | Pre-Seed/Seed | $0.25-1.5M | US | [Hashicorp](https://www.hashicorp.com/), [RedPanda](https://redpanda.com/), [Astro](https://astro.build/) |
+[HorizonVC](https://horizon.vc/) | Pre-Seed/Seed | $0.3-1.5M | US | [Nango](https://nango.dev/), [Shuttle](https://shuttle.rs/), [Caesar Labs](https://github.com/caesarHQ/cx-copilot) |
 [Kima Ventures](https://www.kimaventures.com/)| Pre-Seed/Seed | $0.15M | France | [AirByte](https://airbyte.com/), [Docker](https://www.docker.com/), [GitGuardian](https://www.gitguardian.com/), [Liveblocks](https://liveblocks.io/), [Meilisearch](https://www.meilisearch.com/)
 [Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | [GitGuardian](https://www.gitguardian.com/), [Evidently AI](https://evidentlyai.com/), [Objectiv](https://objectiv.io/)
 [Lombardstreet Ventures](https://lombardstreet.vc/) | Pre-Seed/Seed | $0.3-1M | US | [Kong](https://www.konghq.com/), [Sysdig](https://sysdig.com/), [Hydra](https://hydras.io/) |
