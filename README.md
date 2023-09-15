@@ -38,7 +38,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Mango Capital](https://www.mangocapitalinc.com/) | Pre-Seed/Seed | $0.5-2M | US | [Hashicorp](https://www.hashicorp.com/), [Couchbase](https://www.couchbase.com/), [InfluxData](https://www.influxdata.com/) |
 [OSS Capital](https://oss.capital/)* | Pre-Seed/Seed | $0.1-6M | US | [Rocket.chat](https://www.rocket.chat/), [Cal.com](https://cal.com/), [Forem](https://www.forem.com/), [Remix](https://remix.run/), [OpenBB](https://openbb.co/), [BoxyHQ](https://boxyhq.com/), [MindsDB](https://mindsdb.com/) |
 [Open Core Ventures](https://opencoreventures.com/)* | Pre-Seed/Seed | $0.1-2M | US | [Fleet](https://fleetdm.com/), [FlowForge](https://flowforge.com/), [Mermaid Chart](https://mermaid.live/) |
-[Peak](https://peak.capital/) | Pre-Seed/Seed | Europe | $250k-4M | [Widgetbook](https://www.widgetbook.io/) |
+[Peak](https://peak.capital/) | Pre-Seed/Seed | Europe | $250k-4M | [apideck](https://www.apideck.com/), [Open Social](https://www.getopensocial.com/), [Widgetbook](https://www.widgetbook.io/)|
 [Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | [Meilisearch](https://www.meilisearch.com/), [Medusa](https://medusajs.com/),  [Cerbos](https://cerbos.dev/) |
 [Speedinvest](https://speedinvest.com/) | Pre-Seed/Seed | $0.7-3M | Europe | [mindsDB](https://mindsdb.com/), [crate.io](https://crate.io/), [Gitpod](https://gitpod.io), [Qovery](https://www.qovery.com/), [Wasmer](https://wasmer.io/) |
 [XAnge](https://xange.fr/) | Pre-Seed/Seed | $0.5-10M | France, Germany | [Odoo](https://www.odoo.com/), [Prestashop](https://www.prestashop.com/), [Misakey](https://docs.misakey.com/) |
