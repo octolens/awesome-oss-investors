@@ -64,7 +64,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Vertex Ventures US](https://vvus.com/) | Seed, Series A | $0.5-10M | US | [Hasura](https://hasura.io/), [Gitpod](https://gitpod.io), [Orkes](https://orkes.io/) |
 [468 Capital](https://www.468cap.com/) | Seed, Series A | $1-15M | Germany | [QuestDB](https://questdb.io/), [Wasmer](https://wasmer.io/), [Iterative.ai](https://iterative.ai/), [Garden.io](https://garden.io/) |
 [Greylock Partners ](https://greylock.com/) |	Seed/Series A+B |	$2-20M |	US |	[Chronosphere](https://chronosphere.io/), [Docker](https://www.docker.com/), [Red Hat](https://www.redhat.com/en) | 
-[Runa Capital](https://runacap.com/) | Seed, Series A+B | $1-10M | US | [NGINX](https://www.nginx.com/), [MariaDB](https://mariadb.com/), [n8n](https://n8n.io/), [OpenReplay](https://openreplay.com/) |
+[Runa Capital](https://runacap.com/) | Seed, Series A | $0.5-15M | Luxembourg | [NGINX](https://www.nginx.com/), [MariaDB](https://mariadb.com/), [n8n](https://n8n.io/), [OpenReplay](https://openreplay.com/) |
 [Accel](https://www.accel.com/) |	Multi Stage |	|	UK |	[Rasa](https://rasa.com/), [Cloudera](https://www.cloudera.com/), [Snyk](https://snyk.io/) | 
 [a16z](https://a16z.com/)* | Multi Stage | | US | [Sourcegraph](https://about.sourcegraph.com/), [Rasa](https://rasa.com/), [dbt](https://www.getdbt.com/) |
 [Bain Capital Ventures](https://baincapitalventures.com/) | Multi Stage | | US | [Docker](https://www.docker.com/), [Tecton](https://www.tecton.ai/), [Redis](https://redis.com/), [Startree](https://www.startree.ai/), [Cube](https://cube.dev/), [Lightning AI](https://lightning.ai/), [Netdata](https://www.netdata.cloud/) |
