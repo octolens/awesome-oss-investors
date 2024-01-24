@@ -26,6 +26,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Boldstart](https://boldstart.vc/) | Pre-Seed/Seed | $0.5-5M | US | [Liveblocks](https://liveblocks.io/), [Cloudquery](https://www.cloudquery.io/), [Darklang](https://darklang.com/) |
 [Crane](https://crane.vc/) | Pre-Seed/Seed | $1-6M | UK | [Novu](https://novu.co/), [ZenML](https://zenml.io/home), [Cerbos](https://cerbos.dev), [Gitpod](https://gitpod.io) |
 [eCAPITAL](https://ecapital.vc/) | Seed, Series A | $1-10M | DE | [Tenzir](https://tenzir.com/), [Exein](https://www.exein.io/), [Open-Xchange](https://www.open-xchange.com/) |
+[Elaia](https://www.elaia.com) | Pre-Seed/Seed, Series A,B | $0.3-12M | France | [Giskard](https://www.giskard.ai), [Qbeast](https://qbeast.io), [Nuclia](https://nuclia.com), [CodeNotary](https://codenotary.com), [TraefikLabs](https://traefik.io) |
 [Essence VC](https://www.essencevc.fund/) | Pre-Seed/Seed | $0.5-5M | US | [ReadySet](https://readyset.io/), [Project Discovery](https://projectdiscovery.io/#/), [Encore](https://encore.dev/) |
 [Firstminute Capital](https://www.firstminute.capital/) | Pre-Seed/Seed | $0.25-5M | UK | [Element](https://element.io/), [n8n](https://n8n.io/), [Nuxt.js](https://nuxtjs.org/), [Quickwit](https://quickwit.io/) |
 [Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | [GitGuardian](https://www.gitguardian.com/), [Evidently AI](https://evidentlyai.com/), [Objectiv](https://objectiv.io/) |
