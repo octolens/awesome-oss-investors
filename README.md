@@ -34,7 +34,6 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [HorizonVC](https://horizon.vc/) | Pre-Seed/Seed | $0.3-1.5M | US | [Nango](https://nango.dev/), [Shuttle](https://shuttle.rs/), [Caesar Labs](https://github.com/caesarHQ/cx-copilot) |
 [Isai Venture (JP Anciaux)](https://isai.vc/) | Pre-Seed/Seed | $0.25-3.5M | FR-US | [Strapi](https://strapi.io/), [Nuxt](https://nuxt.com/), [Kestra](https://kestra.io), [Numworks](https://numworks.com) |
 [Kima Ventures](https://www.kimaventures.com/)| Pre-Seed/Seed | $0.15M | France | [AirByte](https://airbyte.com/), [Docker](https://www.docker.com/), [GitGuardian](https://www.gitguardian.com/), [Liveblocks](https://liveblocks.io/), [Meilisearch](https://www.meilisearch.com/)
-[Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | [GitGuardian](https://www.gitguardian.com/), [Evidently AI](https://evidentlyai.com/), [Objectiv](https://objectiv.io/)
 [Lombardstreet Ventures](https://lombardstreet.vc/) | Pre-Seed/Seed | $0.3-1M | US | [Kong](https://www.konghq.com/), [Sysdig](https://sysdig.com/), [Hydra](https://hydras.io/) |
 [Lunar Ventures](https://lunar.vc/) | Pre-Seed/Seed | $0.3-1M | Germany | [deepset](https://www.deepset.ai/), [Zama](https://www.zama.ai), [WASP](https://wasp-lang.dev/), [NannyML](https://www.nannyml.com/) |
 [Mango Capital](https://www.mangocapitalinc.com/) | Pre-Seed/Seed | $0.5-2M | US | [Hashicorp](https://www.hashicorp.com/), [Couchbase](https://www.couchbase.com/), [InfluxData](https://www.influxdata.com/) |
