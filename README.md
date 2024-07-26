@@ -77,6 +77,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [GGV](https://www.ggvc.com/) |	Multi Stage |	|	US |	[Hashicorp](https://www.hashicorp.com/), [Kong](https://konghq.com/), [Mindee](https://mindee.com/) | 
 [Goldman Sachs](https://www.growth.gs.com/homepage.html) |	Multi Stage |	|	US |	[WSO2](https://wso2.com/), [mongodb](https://www.mongodb.com/), [Mirantis](https://www.mirantis.com/) | 
 [GV](https://www.gv.com/) |	Multi Stage |	|	US, UK |	[GitLab](https://gitlab.com/), [Redpanda](https://redpanda.com/), [Posthog](https://posthog.com/) | 
+[HV Capital](https://www.hvcapital.com/) | Multi Stage | | Europe | [Wasp](https://wasp-lang.dev/) |
 [Index Ventures](https://indexventures.com/) | Multi Stage | | US, UK | [Confluent](https://www.confluent.io/), [Starburst](https://www.starburst.io/), [Datadog](https://www.datadoghq.com/) |
 [Insight Partners](https://www.insightpartners.com/)* | Multi Stage | | US | [JFrog](https://jfrog.com/), [Docker](https://www.docker.com/), [SonarSource](https://www.sonarsource.com/), [Metabase](https://www.metabase.com/), [Astronomer](https://www.astronomer.io/) |
 [Kleiner Perkins](https://www.kleinerperkins.com/) | Multi Stage | | US | [Prisma](https://www.prisma.io/), [Materialize](https://materialize.com/), [Oven](https://oven.sh/) |
