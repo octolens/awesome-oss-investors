@@ -88,6 +88,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Tiger Global](https://www.tigerglobal.com/) |	Multi Stage |	|	US |	[appwrite](https://appwrite.io/), [Kong](https://konghq.com/), [Redis](https://redis.com/) | 
 [Venrock](https://www.venrock.com/) | Multi Stage | | US | [Astronomer](https://www.astronomer.io/), [Meltano](https://meltano.com), [dGraph](https://dgraph.io/)|
 [Altimeter](https://www.altimeter.com/) | Late Stage | | US | [Confluent](https://www.confluent.io/), [GitLab](https://about.gitlab.com/), [dbt](https://www.getdbt.com/) |
+[Ratio](https://ratio.ventures/) | Early Stage | | US | [n8n](https://n8n.io/), [ToolJet](https://tooljet.com/), [Chatwoot](https://chatwoot.com/) |
 
 <!-- END VC LIST -->
 
